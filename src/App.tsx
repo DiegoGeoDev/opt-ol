@@ -1,7 +1,15 @@
+import { BrowserRouter } from "react-router-dom";
+
+import { Router } from "./Router";
+
 import "./App.css";
 
 function App() {
-  return <h1>Hello</h1>;
+  return (
+    <BrowserRouter basename="/opt-ol">
+      <Router />
+    </BrowserRouter>
+  );
 }
 
 export { App };

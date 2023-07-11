@@ -38,3 +38,4 @@ npm i -D postcss <br>
 npm i -D prettier-plugin-tailwindcss <br>
 npm i -D tailwindcss <br>
 npm i -D tailwindcss-animate <br>
+npm i -D vite-tsconfig-paths <br>
