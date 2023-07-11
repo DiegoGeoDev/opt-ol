@@ -28,6 +28,8 @@ npm i tailwind-merge <br>
 npm i @headlessui/react <br>
 npm i lucide-react <br>
 npm i react-router-dom <br>
+npm i ol <br>
+npm i zustand <br>
 
 npm i -D prettier <br>
 npm i -D @tailwindcss/forms <br>
