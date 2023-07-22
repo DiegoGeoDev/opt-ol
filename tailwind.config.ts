@@ -1,10 +1,10 @@
-import type { Config } from "tailwindcss";
+import type { Config } from 'tailwindcss';
 
-import animatePlugin from "tailwindcss-animate";
-import formsPlugin from "@tailwindcss/forms";
+import formsPlugin from '@tailwindcss/forms';
+import animatePlugin from 'tailwindcss-animate';
 
 const config = {
-  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+  content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     extend: {},
   },

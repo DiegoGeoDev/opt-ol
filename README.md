@@ -2,17 +2,13 @@
 
 OPT OpenLayers - https://react.dev/ + https://openlayers.org/
 
-# codespace extensions
-
-EditorConfig for VS Code <br>
-Prettier - Code formatter <br>
-
 # links
 
 https://www.youtube.com/watch?v=Eozu7moovRk `tutorial` <br>
 https://taylor.callsen.me/using-openlayers-with-react-functional-components/ `tutorial` <br>
 https://medium.com/swlh/how-to-incorporate-openlayers-maps-into-react-65b411985744 `tutorial` <br>
 https://github.com/allenhwkim/react-openlayers `sample` <br>
+https://openlayers.org/en/latest/examples/ `examples` <br>
 
 # vite
 
@@ -36,6 +32,11 @@ npm i -D @tailwindcss/forms <br>
 npm i -D autoprefixer <br>
 npm i -D postcss <br>
 npm i -D prettier-plugin-tailwindcss <br>
+npm i -D prettier-plugin-organize-imports <br>
 npm i -D tailwindcss <br>
 npm i -D tailwindcss-animate <br>
 npm i -D vite-tsconfig-paths <br>
+
+# wrapped
+
+- ScaleLine: https://openlayers.org/en/latest/examples/scale-line.html <br>

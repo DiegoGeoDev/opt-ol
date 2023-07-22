@@ -1,3 +1,4 @@
-import { Header } from "./Header/Header";
+import { ControlButton } from './ControlButton/ControlButton';
+import { Header } from './Header/Header';
 
-export { Header };
+export { ControlButton, Header };
